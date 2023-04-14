@@ -1,0 +1,15 @@
+
+.circle_green{
+    height: 25px;
+    width: 25px;
+    background-color: #08d319;
+    border-radius: 50%;
+    display: inline-block;
+}
+.circle_red{
+    height: 25px;
+    width: 25px;
+    background-color: #c50707;
+    border-radius: 50%;
+    display: inline-block;
+}
